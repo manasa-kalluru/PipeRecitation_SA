@@ -13,11 +13,8 @@ int CoolClass::Calc(int a, int b)
 {
     if (a == b)
     {
+        console.log("A is equal to B");
         return 2 * a;
-    }
-    else if (a = 100)
-    {
-        return a;
     }
     else
     {
