@@ -8,6 +8,7 @@
 CoolClass::CoolClass(void)
 {
 }
+CREATING A COMPILE ERROR
 
 int CoolClass::Calc(int a, int b)
 {
